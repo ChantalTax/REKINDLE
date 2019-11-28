@@ -1,5 +1,5 @@
 # REKINDLE
-REKINDLE algorithm as published in Tax et al., MRM 2015
+REKINDLE algorithm as published in [Tax et al., MRM 2015](https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.25165)
 
 How to use:
 
